@@ -1,0 +1,9 @@
+@startuml prueba
+
+juan -> paco: saludo
+juan <--paco: responde
+
+
+
+
+@enduml
